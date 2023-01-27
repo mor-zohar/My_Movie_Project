@@ -1,0 +1,26 @@
+.allMovieDetails {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  gap: 2rem;
+}
+
+.posterImg {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+}
+.posterImg img {
+  width: 45%;
+  aspect-ratio: 3/2;
+}
+
+.btn1 {
+  background-color: antiquewhite;
+  font-size: 100px;
+  color: #f0a94d;
+}
+
+.btn1:hover {
+  color: #f0a94dd2;
+}

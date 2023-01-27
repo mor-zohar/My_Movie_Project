@@ -1,0 +1,19 @@
+.movie {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  column-gap: 4rem;
+  width: 100%;
+}
+
+.Sort {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  gap: 2rem;
+  margin-bottom: 2rem;
+}
+
+.sortBtn {
+  font-weight: bold;
+}

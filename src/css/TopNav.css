@@ -1,0 +1,20 @@
+.NavBar {
+  font-size: 30px;
+  height: 13vh;
+  width: 100%;
+  background-color: #fadeba;
+  margin-bottom: 20px;
+}
+
+.navbar-brand img {
+  height: 6vh;
+}
+
+.me-auto {
+  left: 21%;
+  position: relative;
+  gap: 2rem;
+}
+.con {
+  background-color: #fadeba;
+}
