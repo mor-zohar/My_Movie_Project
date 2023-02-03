@@ -9,7 +9,10 @@ const TopNav = () => {
     <Navbar sticky="top" expand="lg" className="NavBar">
       <Container>
         <NavLink to="/" className="navbar-brand">
-          <img src="https://i.ibb.co/mJdHfry/Movie-logo.png" alt="logo" />
+          <img
+            src="https://i.imagesup.co/images2/cc84878d5eb8fb4490c68081f58a0eec77d6f369.png"
+            alt="logo"
+          />
         </NavLink>
         <Navbar.Toggle className="burger" aria-controls="basic-navbar-nav" />
         <Navbar.Collapse className="con" id="basic-navbar-nav">
